@@ -1,0 +1,1 @@
+import{_ as o,c as s,f as a,w as n,d as c,e as r}from"./main-D406Op9z.js";const _={},d={class:"page-404"};function l(i,e){const t=c("el-result");return r(),s("div",d,[a(t,{icon:"primary",title:"404","sub-title":"Page Not Found"},{extra:n(()=>e[0]||(e[0]=[])),_:1})])}const f=o(_,[["render",l],["__scopeId","data-v-a6c1cbad"]]);export{f as default};
