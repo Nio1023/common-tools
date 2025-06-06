@@ -69,7 +69,7 @@
               <a-button
                 @click="
                   open(
-                    'https://dkt-picture-library.oss-cn-shanghai.aliyuncs.com/fonts/DECATHLON%20VF.zip'
+                    'https://dkt-picture-library.oss-cn-shanghai.aliyuncs.com/fonts/Display.zip'
                   )
                 "
                 v-if="!isDecathlonVFAvailable"
